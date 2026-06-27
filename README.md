@@ -1,4 +1,9 @@
+
 # coding-project-template# e-plantShopping
+
+# coding-project-template
+# e-plantShopping
+
 
 ## Project Overview
 This project is an e-plant shopping web application developed as part of the Coursera project. It allows users to browse plant products, add them to the shopping cart, and manage their purchases through a simple and responsive interface.
@@ -18,4 +23,6 @@ This project is an e-plant shopping web application developed as part of the Cou
 - Display total price and item count
 
 ## GitHub Repository
+
 https://github.com/sinchu16998/e-plantShopping
+
